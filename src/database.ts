@@ -2,8 +2,8 @@ import { COURSE_STACK, TCourse } from "./types"
 
 export const courses: TCourse[] = [
     {
-        id: "c001",
-        name: "React",
+        id: "c005",
+        name: "Reacts",
         lessons: 12,
         stack: COURSE_STACK.FRONT
     },
